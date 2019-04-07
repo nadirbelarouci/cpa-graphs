@@ -1,0 +1,9 @@
+*.txt
+*.png
+.idea/
+cpa-project.iml
+
+out/ 
+lib/
+resources/
+
